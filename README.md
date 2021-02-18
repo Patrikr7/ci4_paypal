@@ -15,7 +15,7 @@ defined('DATABASE') || define('DATABASE', 'seu_database');
 defined('PAYPAL_CLIENT_ID') || define('PAYPAL_CLIENT_ID', 'seu_client_id');
 defined('PAYPAL_SECRET') || define('PAYPAL_SECRET', 'seu_secret');
 ```
-- Primeiro bloco é a configuração do seu banco de dados e o segundo bloco é a configuração do seu PagSeguro (Sandbox ou Production).
+- Primeiro bloco é a configuração do seu banco de dados e o segundo bloco é a configuração do seu PayPal.
 
 2º Após ter feito a configuração do banco de dados, abra seu terminal e acesse o projeto. Em seguida execute os comandos abaixo:
  ```bash
