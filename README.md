@@ -38,6 +38,6 @@ defined('PAYPAL_SECRET') || define('PAYPAL_SECRET', 'seu_secret');
 - Acesse 'My Apps & Credentials' no menu esquerdo, crie o aplicativo
     - Após criar o aplicativo, copie o 'Client ID' e 'Secret'
     
-6º Para ambiente de teste Acesse 'Accounts' no menu esquerdo e utilize o email com o tipo 'Business' para simular a compra. 
+6º Para ambiente de teste acesse 'Accounts' no menu esquerdo e utilize o email com o tipo 'Business' para simular a compra. 
 
 Este projeto foi desenvolvido para afins de estudo, seguindo as aulas do curso 'PHP do Zero ao Profissional', professor Bonieky.
